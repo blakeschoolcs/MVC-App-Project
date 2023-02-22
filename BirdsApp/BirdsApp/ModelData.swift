@@ -1,13 +1,13 @@
 //
 //  ModelData.swift
-//  CollegeMajorApp
+//  BirdsApp
 //
 //  Created by Madeline Burton on 2/22/23.
 //
 
 import Foundation
 
-var allMajors: [Major] = load("CollegeMajors.json")
+var allBirds: [Bird] = load("birdData.json")
 
 func load<T: Decodable>(_ filename: String) -> T {
     let data: Data
@@ -30,4 +30,3 @@ func load<T: Decodable>(_ filename: String) -> T {
         fatalError("Couldn't parse \(filename) as \(T.self):\n\(error)")
     }
 }
-

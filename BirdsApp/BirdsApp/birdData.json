@@ -1,0 +1,982 @@
+[
+ {
+   "id": 1,
+   "name": "American Goldfinch",
+   "scientificName": "Spinus tristis",
+   "conservationStatus": "Least Concern",
+   "primaryColor": "Yellow",
+   "diet": "seeds, insects",
+   "imageOfRange": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/American_Goldfinch-rangemap.png/330px-American_Goldfinch-rangemap.png",
+   "imageOfBird": "https://www.allaboutbirds.org/guide/assets/photo/63737371-480px.jpg"
+ },
+ {
+   "id": 2,
+   "name": "American Purple Gallinule",
+   "scientificName": "Porphyrio martinicus",
+   "conservationStatus": "Least Concern",
+   "primaryColor": "Blue",
+   "diet": "frogs, seeds, leaves, fish",
+   "imageOfRange": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Porphyrio_martinica_map.svg/330px-Porphyrio_martinica_map.svg.png",
+   "imageOfBird": "https://www.allaboutbirds.org/guide/assets/og/75229331-1200px.jpg"
+ },
+ {
+   "id": 3,
+   "name": "American Redstart",
+   "scientificName": "Setophaga ruticilla",
+   "conservationStatus": "Least Concern",
+   "primaryColor": "Black",
+   "diet": "flying insects",
+   "imageOfRange": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Setophaga_ruticilla_map.svg/330px-Setophaga_ruticilla_map.svg.png",
+   "imageOfBird": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Setophaga_ruticilla_-Chiquimula%2C_Guatemala_-male-8-4c.jpg"
+ },
+ {
+   "id": 4,
+   "name": "Amsterdam Albatross",
+   "scientificName": "Diomedea amsterdamensis",
+   "conservationStatus": "Endangered",
+   "primaryColor": "Black",
+   "diet": "squid, fish, crustaceans",
+   "imageOfRange": "https://www.oiseaux.net/maps/svg/albatros.d.amsterdam.svg",
+   "imageOfBird": "https://static.wikia.nocookie.net/animals/images/2/2c/IMG_6372.jpg/revision/latest/scale-to-width-down/340?cb=20140808205058"
+ },
+ {
+   "id": 5,
+   "name": "Arctic Tern",
+   "scientificName": "Sterna paradisaea",
+   "conservationStatus": "Least Concern",
+   "primaryColor": "White",
+   "diet": "fish, crustaceans",
+   "imageOfRange": "https://i.pinimg.com/originals/be/f7/3f/bef73fd954d01c171f3250fe26565767.jpg",
+   "imageOfBird": "https://media.nationalgeographic.org/assets/photos/000/277/27700.jpg"
+ },
+ {
+   "id": 6,
+   "name": "Bald Eagle",
+   "scientificName": "Haliaeetus leucocephalus",
+   "conservationStatus": "Least Concern",
+   "primaryColor": "Brown",
+   "diet": "fish, small mammals, birds",
+   "imageOfRange": "https://www.oiseaux.net/maps/svg/pygargue.a.tete.blanche.svg",
+   "imageOfBird": "https://upload.wikimedia.org/wikipedia/commons/1/1a/About_to_Launch_%2826075320352%29.jpg"
+ },
+ {
+   "id": 7,
+   "name": "Belted Kingfisher",
+   "scientificName": "Megaceryle alcyon",
+   "conservationStatus": "Least Concern",
+   "primaryColor": "Grey",
+   "diet": "fish, insects, crustaceans, amphibians",
+   "imageOfRange": "https://www.allaboutbirds.org/guide/assets/photo/31955671-720px.jpg",
+   "imageOfBird": "https://tilandtrust.org/sites/default/files/images/news/belted_kingfisher_s52-13-028_l.jpg"
+ },
+ {
+   "id": 8,
+   "name": "Black-Crowned Night Heron",
+   "scientificName": "Nycticorax nycticorax",
+   "conservationStatus": "Least Concern",
+   "primaryColor": "Grey",
+   "diet": "fish, crustaceans, frogs, insects",
+   "imageOfRange": "https://www.aladdin.st/bird-watching/maps/black-crowned_night_heron2.jpg",
+   "imageOfBird": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/191086401/320"
+ },
+ {
+   "id": 9,
+   "name": "Blue Footed Booby",
+   "scientificName": "Sula nebouxii",
+   "conservationStatus": "Least Concern",
+   "primaryColor": "White",
+   "diet": "fish, squid",
+   "imageOfRange": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Blaufu%C3%9Ftoelpel_%28Sula_nebouxii%29_world2.png/330px-Blaufu%C3%9Ftoelpel_%28Sula_nebouxii%29_world2.png",
+   "imageOfBird": "https://i.pinimg.com/736x/b3/71/e7/b371e7cec9f6762ae1d81a3e43cc3daf.jpg"
+ },
+ {
+   "id": 10,
+   "name": "Blue Jay",
+   "scientificName": "Cyanocitta cristata",
+   "conservationStatus": "Least Concern",
+   "primaryColor": "Blue",
+   "diet": "nuts, grain, corn, berries, insects",
+   "imageOfRange": "https://nas-national-prod.s3.amazonaws.com/sites/default/files/Blue-Jay_map.jpg",
+   "imageOfBird": "https://www.allaboutbirds.org/guide/assets/photo/59859171-480px.jpg"
+ },
+ {
+   "id": 11,
+   "name": "Blue Manakin",
+   "scientificName": "Chiroxiphia caudata",
+   "conservationStatus": "Least Concern",
+   "primaryColor": "Blue",
+   "diet": "fruit, berries, insects",
+   "imageOfRange": "https://www.oiseaux.net/maps/svg/manakin.a.longue.queue.svg",
+   "imageOfBird": "https://upload.wikimedia.org/wikipedia/commons/5/56/Chiroxiphia_caudata-2.jpg"
+ },
+ {
+   "id": 12,
+   "name": "Bokikokiko",
+   "scientificName": "Acrocephalus aequinoctialis",
+   "conservationStatus": "Endangered",
+   "primaryColor": "Grey",
+   "diet": "flies, dragonflies, small lizards",
+   "imageOfRange": "https://images.theconversation.com/files/279993/original/file-20190618-118505-iddo8l.PNG?ixlib=rb-1.1.0&q=45&auto=format&w=754&fit=clip",
+   "imageOfBird": "https://farm9.staticflickr.com/8806/17074254082_97daffe794_z.jpg"
+ },
+ {
+   "id": 13,
+   "name": "Brown Creeper",
+   "scientificName": "Certhia americana",
+   "conservationStatus": "Least Concern",
+   "primaryColor": "Brown",
+   "diet": "insects, suet, seeds",
+   "imageOfRange": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Certhia_americana_map.svg/330px-Certhia_americana_map.svg.png",
+   "imageOfBird": "https://i.pinimg.com/originals/bf/06/c9/bf06c92782159121e579866191c6c08e.jpg"
+ },
+ {
+   "id": 14,
+   "name": "Buff-Spotted Flufftail",
+   "scientificName": "Sarothrura elegans",
+   "conservationStatus": "Least Concern",
+   "primaryColor": "Black",
+   "diet": "ants, small insects",
+   "imageOfRange": "https://www.oiseaux.net/maps/svg/rale.ponctue.svg",
+   "imageOfBird": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/203317581/1800"
+ },
+ {
+   "id": 15,
+   "name": "Bumblebee Hummingbird",
+   "scientificName": "Atthis heloisa",
+   "conservationStatus": "Least Concern",
+   "primaryColor": "Green",
+   "diet": "nectar, spiders",
+   "imageOfRange": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Atthis_heloisa_map.svg/330px-Atthis_heloisa_map.svg.png",
+   "imageOfBird": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/219318871/1800"
+ },
+ {
+   "id": 16,
+   "name": "Carolina Wren",
+   "scientificName": "Thryothorus ludovicianus",
+   "conservationStatus": "Least Concern",
+   "primaryColor": "Brown",
+   "diet": "insects, fruits, seeds",
+   "imageOfRange": "https://www.oiseaux.net/maps/svg/troglodyte.de.caroline.svg",
+   "imageOfBird": "https://www.allaboutbirds.org/guide/assets/og/75302131-1200px.jpg"
+ },
+ {
+   "id": 17,
+   "name": "Cave Swallow",
+   "scientificName": "Petrochelidon fulva",
+   "conservationStatus": "Least Concern",
+   "primaryColor": "Brown",
+   "diet": "flying insects",
+   "imageOfRange": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/189271971/2400",
+   "imageOfBird": "https://www.allaboutbirds.org/guide/assets/photo/68122191-480px.jpg"
+ },
+ {
+   "id": 18,
+   "name": "Common Buttonquail",
+   "scientificName": "Turnix sylvaticus",
+   "conservationStatus": "Least Concern",
+   "primaryColor": "Brown",
+   "diet": "seeds, insects, larvae",
+   "imageOfRange": "https://www.oiseaux.net/maps/svg/turnix.mugissant.svg",
+   "imageOfBird": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/143000061/900"
+ },
+ {
+   "id": 19,
+   "name": "Common Ostrich",
+   "scientificName": "Struthio camelus",
+   "conservationStatus": "Least Concern",
+   "primaryColor": "Black",
+   "diet": "seeds, shrubs, grass, fruit, flowers, insects",
+   "imageOfRange": "https://jacksonzoo.org/wp-content/uploads/2014/05/Animal-Ranges-Maps-Ostrich.jpg",
+   "imageOfBird": "https://cdn.mos.cms.futurecdn.net/z3iEY8ryHdNzeyvLxyMppT.jpg"
+ },
+ {
+   "id": 20,
+   "name": "Common Pheasant",
+   "scientificName": "Phasianus colchicus",
+   "conservationStatus": "Least Concern",
+   "primaryColor": "Brown",
+   "diet": "fruit, seeds, grain, leaves",
+   "imageOfRange": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Phasianus_colchicus_map.svg/330px-Phasianus_colchicus_map.svg.png",
+   "imageOfBird": "https://www.allaboutbirds.org/guide/assets/og/75368221-1200px.jpg"
+ },
+ {
+   "id": 21,
+   "name": "Common Raven",
+   "scientificName": "Corvus corax",
+   "conservationStatus": "Least Concern",
+   "primaryColor": "Black",
+   "diet": "carrion, grain, berries, insects, small animals, garbage",
+   "imageOfRange": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Corvus_corax_map.jpg/330px-Corvus_corax_map.jpg",
+   "imageOfBird": "https://lh3.googleusercontent.com/proxy/ZJCrgWveDoPwcWBob4-3Lrz3_W7iLbaTzihK6VuXECX8wUUcwzCGCilNe4i-e7dfySkvE_sykurgO2_pJvmCJElEMYX6ywj-kmJDnekVqQ-YzuH3OUB7C1okwWZK6qafsMdfn6udVbWfWPg"
+ },
+ {
+   "id": 22,
+   "name": "Common Sandpiper",
+   "scientificName": "Actitis hypoleucos",
+   "conservationStatus": "Least Concern",
+   "primaryColor": "White",
+   "diet": "larvae, snails, crustaceans, crabs, clams",
+   "imageOfRange": "https://www.aladdin.st/bird-watching/maps/common_sandpiper.jpg",
+   "imageOfBird": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/45128851/1800"
+ },
+ {
+   "id": 23,
+   "name": "Crested Caracara",
+   "scientificName": "Caracara cheriway",
+   "conservationStatus": "Least Concern",
+   "primaryColor": "Brown",
+   "diet": "carcasses",
+   "imageOfRange": "https://www.allaboutbirds.org/guide/assets/photo/32262511-720px.jpg",
+   "imageOfBird": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/70583361/1800"
+ },
+ {
+   "id": 24,
+   "name": "Dark-Eyed Junco",
+   "scientificName": "Junco hyemalis",
+   "conservationStatus": "Least Concern",
+   "primaryColor": "Black",
+   "diet": "seeds, insects",
+   "imageOfRange": "https://nhpbs.org/wild/images/darkeyedjuncomap.jpg",
+   "imageOfBird": "https://www.allaboutbirds.org/guide/assets/og/75340411-1200px.jpg"
+ },
+ {
+   "id": 25,
+   "name": "Double-Crested Cormorant",
+   "scientificName": "Phalacrocorax auritus",
+   "conservationStatus": "Least Concern",
+   "primaryColor": "Black",
+   "diet": "fish",
+   "imageOfRange": "https://www.oiseaux.net/maps/svg/cormoran.a.aigrettes.svg",
+   "imageOfBird": "https://photofeathers.files.wordpress.com/2011/03/img_5056.jpg"
+ },
+ {
+   "id": 26,
+   "name": "Eastern Screech Owl",
+   "scientificName": "Megascops asio",
+   "conservationStatus": "Least Concern",
+   "primaryColor": "Brown",
+   "diet": "insects, crayfish, small mammals",
+   "imageOfRange": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Megascops_asio_map.svg/330px-Megascops_asio_map.svg.png",
+   "imageOfBird": "https://www.ontarioparks.com/parksblog/wp-content/uploads/2015/10/canstockphoto2749376.jpg"
+ },
+ {
+   "id": 27,
+   "name": "Eastern Whip-Poor-Will",
+   "scientificName": "Antrostomus vociferus",
+   "conservationStatus": "Least Concern",
+   "primaryColor": "Brown",
+   "diet": "flying insects",
+   "imageOfRange": "https://www.allaboutbirds.org/guide/assets/photo/32268201-720px.jpg",
+   "imageOfBird": "https://www.birdguides-cdn.com/cdn/gallery/birdguides/e4d0baee-75dc-424e-a76f-ecbfda56c1da.jpg"
+ },
+ {
+   "id": 28,
+   "name": "Elegant Sunbird",
+   "scientificName": "Aethopyga duyvenbodei",
+   "conservationStatus": "Endangered",
+   "primaryColor": "Yellow",
+   "diet": "insects, nectar",
+   "imageOfRange": "https://www.oiseaux.net/maps/svg/souimanga.des.sangi.svg",
+   "imageOfBird": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/275821031/1800"
+ },
+ {
+   "id": 29,
+   "name": "Elegant Trogon",
+   "scientificName": "Trogon elegans",
+   "conservationStatus": "Least Concern",
+   "primaryColor": "Red",
+   "diet": "insects, fruit",
+   "imageOfRange": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Trogon_elegans_map.svg/330px-Trogon_elegans_map.svg.png",
+   "imageOfBird": "https://www.allaboutbirds.org/guide/assets/og/75351601-1200px.jpg"
+ },
+ {
+   "id": 30,
+   "name": "Emperor Goose",
+   "scientificName": "Chen canagica",
+   "conservationStatus": "Near Threatened",
+   "primaryColor": "Grey",
+   "diet": "shoots, roots, berries",
+   "imageOfRange": "https://www.allaboutbirds.org/guide/assets/photo/40564731-720px.jpg",
+   "imageOfBird": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Emperor_goose_by_Lisa_Hupp_USFWS.jpg/220px-Emperor_goose_by_Lisa_Hupp_USFWS.jpg"
+ },
+ {
+   "id": 31,
+   "name": "Flame Bowerbird",
+   "scientificName": "Sericulus ardens",
+   "conservationStatus": "Least Concern",
+   "primaryColor": "Yellow",
+   "diet": "fruit, insects",
+   "imageOfRange": "https://www.oiseaux.net/maps/svg/jardinier.flamboyant.svg",
+   "imageOfBird": "https://www.birdsofcolombia.org/world/Flame_Bowerbird_Male.jpg"
+ },
+ {
+   "id": 32,
+   "name": "Fork-Tailed Flycatcher",
+   "scientificName": "Tyrannus savana",
+   "conservationStatus": "Least Concern",
+   "primaryColor": "White",
+   "diet": "flying insects",
+   "imageOfRange": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Tyrannus_savana_map.svg/330px-Tyrannus_savana_map.svg.png",
+   "imageOfBird": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/44495661/1800"
+ },
+ {
+   "id": 33,
+   "name": "Gambel's Quail",
+   "scientificName": "Callipepla gambelii Family: Odontophoridae",
+   "conservationStatus": "Least Concern",
+   "primaryColor": "Blue",
+   "diet": "insects, plants",
+   "imageOfRange": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Callipepla_gambelii_map.svg/330px-Callipepla_gambelii_map.svg.png",
+   "imageOfBird": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/296730461/1800"
+ },
+ {
+   "id": 34,
+   "name": "Golden White-Eye",
+   "scientificName": "Cleptornis marchei",
+   "conservationStatus": "Endangered",
+   "primaryColor": "Yellow",
+   "diet": "insects, fruit, nectar",
+   "imageOfRange": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Northern_Mariana_Islands-CIA_WFB_Map.png",
+   "imageOfBird": "https://i2.wp.com/www.beyourownbirder.com/wp-content/uploads/2018/05/golden-white-eye.jpg?fit=670%2C300"
+ },
+ {
+   "id": 35,
+   "name": "Gouldian Finch",
+   "scientificName": "Erythrura gouldiae",
+   "conservationStatus": "Near Threatened",
+   "primaryColor": "Green",
+   "diet": "seeds",
+   "imageOfRange": "https://images.squarespace-cdn.com/content/v1/56df530ab09f958ca5645f6a/1457479277527-U33DADRQG8HLDAUPG045/ke17ZwdGBToddI8pDm48kCtTARQZ-BaasQ3bbWXrIS8UqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcZWqU7au7RpBH6bEBlAuq1S7yqsPY0jO6P5L5ZU-ViTEPn_Yl6G-1_68ZF8F5Vhl8/Erythrura-gouldiae-range.jpg",
+   "imageOfBird": "https://www.birdsville.net.au/wp-content/uploads/2011/07/Gouldian-finch1.jpg"
+ },
+ {
+   "id": 36,
+   "name": "Great Blue Heron",
+   "scientificName": "Ardea herodias",
+   "conservationStatus": "Least Concern",
+   "primaryColor": "Grey",
+   "diet": "fish, crabs, insects, frogs",
+   "imageOfRange": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Great_Blue_Heron-rangemap.gif/330px-Great_Blue_Heron-rangemap.gif",
+   "imageOfBird": "https://avibirds.com/wp-content/uploads/2020/08/great-blue-heron-400x442.jpg"
+ },
+ {
+   "id": 37,
+   "name": "Great Curassow",
+   "scientificName": "Crax rubra",
+   "conservationStatus": "Vulnerable",
+   "primaryColor": "Black",
+   "diet": "fruits, anthropods",
+   "imageOfRange": "https://www.oiseaux.net/maps/svg/grand.hocco.svg",
+   "imageOfBird": "https://i.pinimg.com/originals/62/8b/a5/628ba5fefe540ae3bc80c4b2a81b3a81.jpg"
+ },
+ {
+   "id": 38,
+   "name": "Great Frigatebird",
+   "scientificName": "Fregata minor",
+   "conservationStatus": "Least Concern",
+   "primaryColor": "Black",
+   "diet": "fish, crabs, jellyfish",
+   "imageOfRange": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Fregata_distribution.png/220px-Fregata_distribution.png",
+   "imageOfBird": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/191038011/320"
+ },
+ {
+   "id": 39,
+   "name": "Great Hornbill",
+   "scientificName": "Buceros bicornis",
+   "conservationStatus": "Near Threatened",
+   "primaryColor": "Black",
+   "diet": "fruit",
+   "imageOfRange": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/BucerosBicornisMap.svg/330px-BucerosBicornisMap.svg.png",
+   "imageOfBird": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Great_hornbill_Photograph_by_Shantanu_Kuveskar.jpg/330px-Great_hornbill_Photograph_by_Shantanu_Kuveskar.jpg"
+ },
+ {
+   "id": 40,
+   "name": "Great Potoo",
+   "scientificName": "Nyctibius grandis",
+   "conservationStatus": "Least Concern",
+   "primaryColor": "Brown",
+   "diet": "flying insects",
+   "imageOfRange": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Nyctibius_grandis.gif/330px-Nyctibius_grandis.gif",
+   "imageOfBird": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/244162041/1200"
+ },
+ {
+   "id": 41,
+   "name": "Great White Pelican",
+   "scientificName": "Pelecanus onocrotalus",
+   "conservationStatus": "Least Concern",
+   "primaryColor": "White",
+   "diet": "fish",
+   "imageOfRange": "https://www.allaboutbirds.org/guide/assets/photo/31950111-720px.jpg",
+   "imageOfBird": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/140480041/1800"
+ },
+ {
+   "id": 42,
+   "name": "Greater Flamingo",
+   "scientificName": "Phoenicopterun roseus",
+   "conservationStatus": "Least Concern",
+   "primaryColor": "Pink",
+   "diet": "plankton, tiny fish, crustaceans",
+   "imageOfRange": "https://www.theanimalfiles.com/images/greater_flamingo_range.jpg",
+   "imageOfBird": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flamant_rose_Salines_de_Thyna.jpg/1200px-Flamant_rose_Salines_de_Thyna.jpg"
+ },
+ {
+   "id": 43,
+   "name": "Harpy Eagle",
+   "scientificName": "Harpia harpyja",
+   "conservationStatus": "Near Threatened",
+   "primaryColor": "Grey",
+   "diet": "monkeys, birds, sloths,",
+   "imageOfRange": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Harpy_Eagle_Range.svg/330px-Harpy_Eagle_Range.svg.png",
+   "imageOfBird": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Harpia_harpyja_001_800.jpg/330px-Harpia_harpyja_001_800.jpg"
+ },
+ {
+   "id": 44,
+   "name": "Hawaiian Stilt",
+   "scientificName": "Himantopus mexicanus knudseni",
+   "conservationStatus": "Endangered",
+   "primaryColor": "Black",
+   "diet": "fish, crabs, worms, insects",
+   "imageOfRange": "https://ecos.fws.gov/arcgis/rest/directories/arcgisoutput/tess/RangeMap_MapServer/_ags_map0687d169c38841a1a8ed74181d7cedda.png",
+   "imageOfBird": "https://www.worldlifeexpectancy.com/images/a/w/b/himantopus-mexicanus/himantopus-mexicanus.jpg"
+ },
+ {
+   "id": 45,
+   "name": "Hoatzin",
+   "scientificName": "Ophisthocomus hoazin",
+   "conservationStatus": "Least Concern",
+   "primaryColor": "Brown",
+   "diet": "leaves, fruit, flowers",
+   "imageOfRange": "https://upload.wikimedia.org/wikipedia/commons/9/90/Hoatzin_%28Opisthocomus_hoazin%29_world.png",
+   "imageOfBird": "https://wildlatitudes.com/wp-content/uploads/Hoatzin_by_Murray-Foubister.jpg"
+ },
+ {
+   "id": 46,
+   "name": "Kakapo",
+   "scientificName": "Strigops habroptilus",
+   "conservationStatus": "Critically Endangered",
+   "primaryColor": "Green",
+   "diet": "plants, seeds, fruits, pollen",
+   "imageOfRange": "https://www.biographic.com/wp-content/uploads/2019/11/new-zealand-map.png",
+   "imageOfBird": "https://www.pbs.org/wnet/nature/files/2014/08/1200468kpo10-1024x682.jpg"
+ },
+ {
+   "id": 47,
+   "name": "King Vulture",
+   "scientificName": "Sarcoramphus papa",
+   "conservationStatus": "Least Concern",
+   "primaryColor": "White",
+   "diet": "carcasses, dead fish, dead lizards",
+   "imageOfRange": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/King_Vulture.png/330px-King_Vulture.png",
+   "imageOfBird": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIvgz4jXeQSVtLJGvrgs-8lwaTVKUXFO-kbw&usqp=CAU"
+ },
+ {
+   "id": 48,
+   "name": "Laughing Falcon",
+   "scientificName": "Herpetotheres cachinnans",
+   "conservationStatus": "Least Concern",
+   "primaryColor": "Brown",
+   "diet": "snakes, lizards, rodents",
+   "imageOfRange": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Herpetotheres_cachinnans_map.svg/330px-Herpetotheres_cachinnans_map.svg.png",
+   "imageOfBird": "https://olivemacawparrotsfarm.com/wp-content/uploads/2019/11/Laughing-Falcon-Herpetotheres-cachinnans.jpg"
+ },
+ {
+   "id": 49,
+   "name": "Laughing Kookaburra",
+   "scientificName": "Dacelo novaeguineae",
+   "conservationStatus": "Least Concern",
+   "primaryColor": "Brown",
+   "diet": "mice, insects, fish",
+   "imageOfRange": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Distribution_laughing_kookaburra.jpg/330px-Distribution_laughing_kookaburra.jpg",
+   "imageOfBird": "https://animals.sandiegozoo.org/sites/default/files/2016-11/animals_hero_kookaburra.jpg"
+ },
+ {
+   "id": 50,
+   "name": "Lear's Macaw",
+   "scientificName": "Anodorhynchus leari",
+   "conservationStatus": "Endangered",
+   "primaryColor": "Blue",
+   "diet": "licuri palm nuts",
+   "imageOfRange": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Distribuicao-geografica-anodorhynchus-lean.png/220px-Distribuicao-geografica-anodorhynchus-lean.png",
+   "imageOfBird": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/188555631/1800"
+ },
+ {
+   "id": 51,
+   "name": "Little Spotted Kiwi",
+   "scientificName": "Apteryx owenii",
+   "conservationStatus": "Near Threatened",
+   "primaryColor": "Brown",
+   "diet": "grubs, insects, berries",
+   "imageOfRange": "https://www.oiseaux.net/maps/svg/kiwi.d.owen.svg",
+   "imageOfBird": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1CTaVtQcXuxJV6tI0N9ZTbdML_Xep99yWAg&usqp=CAU"
+ },
+ {
+   "id": 52,
+   "name": "Macaroni Penguin",
+   "scientificName": "Eudyptes chrysolophus",
+   "conservationStatus": "Vulnerable",
+   "primaryColor": "White",
+   "diet": "crustaceans, squid, fish",
+   "imageOfRange": "https://i.pinimg.com/originals/ce/0d/d9/ce0dd9d7f41869042373ed5887d7c516.jpg",
+   "imageOfBird": "https://www.animalspot.net/wp-content/uploads/2014/07/Macaroni-Penguin-Images.jpg"
+ },
+ {
+   "id": 53,
+   "name": "Mallard",
+   "scientificName": "Anas platyrhynchos",
+   "conservationStatus": "Least Concern",
+   "primaryColor": "Brown",
+   "diet": "insects, worms, crustaceans, seeds, plants",
+   "imageOfRange": "https://upload.wikimedia.org/wikipedia/commons/1/18/Mallard_Duck_Range.png",
+   "imageOfBird": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Anas_platyrhynchos_male_female_quadrat.jpg"
+ },
+ {
+   "id": 54,
+   "name": "Mourning Dove",
+   "scientificName": "Zenaida macroura",
+   "conservationStatus": "Least Concern",
+   "primaryColor": "Brown",
+   "diet": "seeds, snails, insects",
+   "imageOfRange": "https://www.swartzentrover.com/cotor/Photos/Hiking/Birds/BirdPages/MourningDovemap.gif",
+   "imageOfBird": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Mourning_Dove_2006.jpg"
+ },
+ {
+   "id": 55,
+   "name": "Narcissus Flycatcher",
+   "scientificName": "Ficedula narcissina",
+   "conservationStatus": "Least Concern",
+   "primaryColor": "Yellow",
+   "diet": "Insects",
+   "imageOfRange": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/FicedulaZanthopygiaMap.svg/330px-FicedulaZanthopygiaMap.svg.png",
+   "imageOfBird": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/158687851/1800"
+ },
+ {
+   "id": 56,
+   "name": "Nene",
+   "scientificName": "Branta sandvicensis",
+   "conservationStatus": "Vulnerable",
+   "primaryColor": "Brown",
+   "diet": "leaves, seeds, flowers, grasses",
+   "imageOfRange": "https://ecos.fws.gov/arcgis/rest/directories/arcgisoutput/tess/RangeMap_MapServer/_ags_map0687d169c38841a1a8ed74181d7cedda.png",
+   "imageOfBird": "https://abcbirds.org/wp-content/uploads/2016/06/Nene_Jack-Jeffrey_PR.jpg"
+ },
+ {
+   "id": 57,
+   "name": "Northern Cardinal",
+   "scientificName": "Cardinalis cardinalis",
+   "conservationStatus": "Least Concern",
+   "primaryColor": "Red",
+   "diet": "seeds, grain, fruit, insects",
+   "imageOfRange": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Northern_Cardinal-rangemap.gif/330px-Northern_Cardinal-rangemap.gif",
+   "imageOfBird": "https://www.biorxiv.org/content/biorxiv/early/2020/05/14/2020.05.12.092080/F1.large.jpg"
+ },
+ {
+   "id": 58,
+   "name": "Ovenbird",
+   "scientificName": "Seiurus aurocapilla",
+   "conservationStatus": "Least Concern",
+   "primaryColor": "Brown",
+   "diet": "insects",
+   "imageOfRange": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Seiurus_aurocapilla_map.svg/330px-Seiurus_aurocapilla_map.svg.png",
+   "imageOfBird": "https://i.ytimg.com/vi/gj_q3rpHF6g/maxresdefault.jpg"
+ },
+ {
+   "id": 59,
+   "name": "Peregrine Falcon",
+   "scientificName": "Falco peregrinus",
+   "conservationStatus": "Least Concern",
+   "primaryColor": "Grey",
+   "diet": "pigeons, doves, waterfowl, songbirds",
+   "imageOfRange": "https://i.pinimg.com/originals/61/37/23/61372344888ea82577f0ec817f3efda2.jpg",
+   "imageOfBird": "https://www.allaboutbirds.org/guide/assets/photo/160654851-480px.jpg"
+ },
+ {
+   "id": 60,
+   "name": "Pied Avocet",
+   "scientificName": "Recurvirostra avosetta",
+   "conservationStatus": "Least Concern",
+   "primaryColor": "White",
+   "diet": "crustaceans, insects",
+   "imageOfRange": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/RecurvirostraAvosettaIUCNver2019-2.png/330px-RecurvirostraAvosettaIUCNver2019-2.png",
+   "imageOfBird": "https://images.fineartamerica.com/images-medium-large-5/pied-avocet-recurvirostra-avosetta-panoramic-images.jpg"
+ },
+ {
+   "id": 61,
+   "name": "Pileated Woodpecker",
+   "scientificName": "Dryocopus pileatus",
+   "conservationStatus": "Least Concern",
+   "primaryColor": "Black",
+   "diet": "insects, fruit, nuts, berries",
+   "imageOfRange": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/203477101/2400",
+   "imageOfBird": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Pileated_Woodpecker_%289597212081%29%2C_crop.jpg/220px-Pileated_Woodpecker_%289597212081%29%2C_crop.jpg"
+ },
+ {
+   "id": 62,
+   "name": "Pink Robin",
+   "scientificName": "Petroica rodinogaster",
+   "conservationStatus": "Least Concern",
+   "primaryColor": "Pink",
+   "diet": "spiders, caterpillars, beetles",
+   "imageOfRange": "https://www.oiseaux.net/maps/svg/miro.incarnat.svg",
+   "imageOfBird": "https://innerstrength.zone/wp-content/uploads/2020/02/3_result_result2.jpg"
+ },
+ {
+   "id": 63,
+   "name": "Pinyon Jay",
+   "scientificName": "Gymnorhinus cyanocephalus",
+   "conservationStatus": "Vulnerable",
+   "primaryColor": "Blue",
+   "diet": "pinyon seeds, pine seeds",
+   "imageOfRange": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Gymnorhinus_cyanocephala_map.jpg/330px-Gymnorhinus_cyanocephala_map.jpg",
+   "imageOfBird": "https://www.allaboutbirds.org/guide/assets/photo/94974451-480px.jpg"
+ },
+ {
+   "id": 64,
+   "name": "Razorbill",
+   "scientificName": "Alca torda",
+   "conservationStatus": "Least Concern",
+   "primaryColor": "White",
+   "diet": "fish, crustaceans",
+   "imageOfRange": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Alca_torda_map.svg/330px-Alca_torda_map.svg.png",
+   "imageOfBird": "https://alchetron.com/cdn/razorbill-0c5144ab-deca-47c2-b7f1-ec251841176-resize-750.jpg"
+ },
+ {
+   "id": 65,
+   "name": "Red-Billed Oxpecker",
+   "scientificName": "Buphagus erythrorhynchus",
+   "conservationStatus": "Least Concern",
+   "primaryColor": "Brown",
+   "diet": "blood, ticks, mites",
+   "imageOfRange": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Buphagus_erythrorhynchus_map.svg/330px-Buphagus_erythrorhynchus_map.svg.png",
+   "imageOfBird": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Buphagus_erythrorhynchus00.jpg/330px-Buphagus_erythrorhynchus00.jpg"
+ },
+ {
+   "id": 66,
+   "name": "Red-Breasted Nuthatch",
+   "scientificName": "Sitta canadensis",
+   "conservationStatus": "Least Concern",
+   "primaryColor": "Grey",
+   "diet": "insects, conifer seeds, suet",
+   "imageOfRange": "https://pages.vassar.edu/sensoryecology/files/2015/05/Nuthatch-map.jpg",
+   "imageOfBird": "https://nas-national-prod.s3.amazonaws.com/styles/article_teaser/s3/editorial-card-images/article/ed-card_apa_2013_28356_226452_megumiaita_redbreasted_nuthatch_kk.jpg?itok=0jjmRsgs"
+ },
+ {
+   "id": 67,
+   "name": "Red-Tailed Tropicbird",
+   "scientificName": "Phaethon rubricauda",
+   "conservationStatus": "Least Concern",
+   "primaryColor": "White",
+   "diet": "squid, flying fish",
+   "imageOfRange": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Redtailedtropicbirdrge.png/330px-Redtailedtropicbirdrge.png",
+   "imageOfBird": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/171755111/1800"
+ },
+ {
+   "id": 68,
+   "name": "Red-Whiskered Bulbul",
+   "scientificName": "Pycnonotus jocosus",
+   "conservationStatus": "Least Concern",
+   "primaryColor": "Brown",
+   "diet": "fruit, insects",
+   "imageOfRange": "https://www.oiseaux.net/maps/svg/bulbul.orphee.svg",
+   "imageOfBird": "https://i.pinimg.com/originals/1e/14/1e/1e141e9b56b19a76b72dab5db07d2716.jpg"
+ },
+ {
+   "id": 69,
+   "name": "Regent Honeyeater",
+   "scientificName": "Anthochaera phrygia",
+   "conservationStatus": "Critically Endangered",
+   "primaryColor": "Black",
+   "diet": "eucalyptus nectar, insect honeydew",
+   "imageOfRange": "https://www.oiseaux.net/maps/svg/meliphage.regent.svg",
+   "imageOfBird": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/173557351/1800"
+ },
+ {
+   "id": 70,
+   "name": "Ring-Billed Gull",
+   "scientificName": "Larus delawarensis",
+   "conservationStatus": "Least Concern",
+   "primaryColor": "White",
+   "diet": "insects, fish, grains, food scraps",
+   "imageOfRange": "https://www.allaboutbirds.org/guide/assets/photo/31503241-720px.jpg",
+   "imageOfBird": "https://www.allaboutbirds.org/guide/assets/photo/71316071-480px.jpg"
+ },
+ {
+   "id": 71,
+   "name": "Rock Dove",
+   "scientificName": "Columba livia",
+   "conservationStatus": "Least Concern",
+   "primaryColor": "Grey",
+   "diet": "fruits, grains, insects, seeds, food scraps",
+   "imageOfRange": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Columba_livia_distribution_map.png/330px-Columba_livia_distribution_map.png",
+   "imageOfBird": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Paloma_brav%C3%ADa_%28Columba_livia%29%2C_Palacio_de_Nymphenburg%2C_M%C3%BAnich%2C_Alemania01.JPG/330px-Paloma_brav%C3%ADa_%28Columba_livia%29%2C_Palacio_de_Nymphenburg%2C_M%C3%BAnich%2C_Alemania01.JPG"
+ },
+ {
+   "id": 72,
+   "name": "Roseate Spoonbill",
+   "scientificName": "Platalea ajaja",
+   "conservationStatus": "Least Concern",
+   "primaryColor": "Pink",
+   "diet": "crustaceans, aquatic insects, frogs, newts and small fish",
+   "imageOfRange": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Platalea_ajaja_map.svg/330px-Platalea_ajaja_map.svg.png",
+   "imageOfBird": "https://nas-national-prod.s3.amazonaws.com/styles/hero_cover_bird_page/s3/a1_5380_8_roseate-spoonbill_andrew_mccullough_adult.jpg?itok=sulRVtJC"
+ },
+ {
+   "id": 73,
+   "name": "Rose-Breasted Gosbeak",
+   "scientificName": "Pheucticus ludovicianus",
+   "conservationStatus": "Least Concern",
+   "primaryColor": "White",
+   "diet": "insects, seeds, berries",
+   "imageOfRange": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Rose-breasted_Grosbeak-rangemap.gif/330px-Rose-breasted_Grosbeak-rangemap.gif",
+   "imageOfBird": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/193674311/320"
+ },
+ {
+   "id": 74,
+   "name": "Ruby-Crowned Kinglet",
+   "scientificName": "Regulus calendula",
+   "conservationStatus": "Least Concern",
+   "primaryColor": "Brown",
+   "diet": "insects, fruit, seeds",
+   "imageOfRange": "https://www.allaboutbirds.org/guide/assets/photo/31505831-720px.jpg",
+   "imageOfBird": "https://cdn.birdwatchingdaily.com/2013/06/Kinglet-Ruby-crowned-10-0089-660x440.jpg"
+ },
+ {
+   "id": 75,
+   "name": "Ruby-Throated Hummingbird",
+   "scientificName": "Archilochus columbris",
+   "conservationStatus": "Least Concern",
+   "primaryColor": "Green",
+   "diet": "flower nectar, insects",
+   "imageOfRange": "https://nas-national-prod.s3.amazonaws.com/Ruby-throated-Hummingbird_map.jpg",
+   "imageOfBird": "https://i.pinimg.com/originals/7d/23/79/7d2379ac656c56ec5e31c67672b2ceb0.jpg"
+ },
+ {
+   "id": 76,
+   "name": "Rudd's Lark",
+   "scientificName": "Heteromirafra ruddi",
+   "conservationStatus": "Vulnerable",
+   "primaryColor": "Brown",
+   "diet": "insects",
+   "imageOfRange": "https://www.oiseaux.net/maps/svg/alouette.de.rudd.svg",
+   "imageOfBird": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/221182651/1800"
+ },
+ {
+   "id": 77,
+   "name": "Scarlet Tanager",
+   "scientificName": "Piranga olivacea",
+   "conservationStatus": "Least Concern",
+   "primaryColor": "Red",
+   "diet": "insects, berries, seeds, snails",
+   "imageOfRange": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/203508481/2400",
+   "imageOfBird": "https://www.allaboutbirds.org/guide/assets/photo/67449631-480px.jpg"
+ },
+ {
+   "id": 78,
+   "name": "Secretarybird",
+   "scientificName": "Sagittarius serpentarius",
+   "conservationStatus": "Vulnerable",
+   "primaryColor": "White",
+   "diet": "insects, small mammals, lizards, snakes",
+   "imageOfRange": "https://www.theanimalfiles.com/images/secretary_bird_range.jpg",
+   "imageOfBird": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/220892221/1800"
+ },
+ {
+   "id": 79,
+   "name": "Sharp-Shinned Hawk",
+   "scientificName": "Accipiter striatus",
+   "conservationStatus": "Least Concern",
+   "primaryColor": "Brown",
+   "diet": "birds, rodents",
+   "imageOfRange": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Accipiter_striatus_map.svg/330px-Accipiter_striatus_map.svg.png",
+   "imageOfBird": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Accipiter_striatus%2C_Canet_Road%2C_San_Luis_Obispo_1.jpg/330px-Accipiter_striatus%2C_Canet_Road%2C_San_Luis_Obispo_1.jpg"
+ },
+ {
+   "id": 80,
+   "name": "Shoebill",
+   "scientificName": "Balaeniceps rex",
+   "conservationStatus": "Vulnerable",
+   "primaryColor": "Grey",
+   "diet": "fish, frogs, snakes",
+   "imageOfRange": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Balaeniceps_rex_distribution.svg/330px-Balaeniceps_rex_distribution.svg.png",
+   "imageOfBird": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Balaeniceps_rex.jpg"
+ },
+ {
+   "id": 81,
+   "name": "Sierra Madre Sparrow",
+   "scientificName": "Xenospiza baileyi",
+   "conservationStatus": "Endangered",
+   "primaryColor": "Brown",
+   "diet": "insects, seeds",
+   "imageOfRange": "https://abcbirds.org/wp-content/uploads/2020/04/Sierra-Madre-Sparrow-map_Cornell.jpg",
+   "imageOfBird": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/243730471/1800"
+ },
+ {
+   "id": 82,
+   "name": "Smooth-Billed Ani",
+   "scientificName": "Crotophaga ani",
+   "conservationStatus": "Least Concern",
+   "primaryColor": "Black",
+   "diet": "insects, lizards, termites",
+   "imageOfRange": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Distribution.crotophaga.ani.png/330px-Distribution.crotophaga.ani.png",
+   "imageOfBird": "https://galapagosconservation.org.uk/wp-content/uploads/2018/12/Smooth-billed-Ani-Crotophaga-ani-Divine-Farm-29-1-2010-2-small-1000x667.jpg"
+ },
+ {
+   "id": 83,
+   "name": "Snail Kite",
+   "scientificName": "Rostrhamus sociabilis",
+   "conservationStatus": "Least Concern",
+   "primaryColor": "Grey",
+   "diet": "snails, crayfish",
+   "imageOfRange": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Rostrhamus_sociabilis.png/330px-Rostrhamus_sociabilis.png",
+   "imageOfBird": "https://upload.wikimedia.org/wikipedia/commons/2/28/Schneckenweih-Snail-Kite.JPG"
+ },
+ {
+   "id": 84,
+   "name": "Snowy Owl",
+   "scientificName": "Bubo scandiacus",
+   "conservationStatus": "Vulnerable",
+   "primaryColor": "White",
+   "diet": "small mammals, birds",
+   "imageOfRange": "https://abcbirds.org/wp-content/uploads/2018/12/Snowy-Owl-map.jpg",
+   "imageOfBird": "https://www.treehugger.com/thmb/rYPDZsLevHn5WBs-XuwMdi6BLuk=/4192x3144/smart/filters:no_upscale()/__opt__aboutcom__coeus__resources__content_migration__mnn__images__2020__01__snowy_owl_flying-cdff0730fab6435d8d0e1edffda3ca21.jpg"
+ },
+ {
+   "id": 85,
+   "name": "Spoon-Billed Sandpiper",
+   "scientificName": "Calidris pygmaea",
+   "conservationStatus": "Critically Endangered",
+   "primaryColor": "Brown",
+   "diet": "mosquitoes, moss, spiders, shrimp",
+   "imageOfRange": "https://kiwifoto.com/images/thailand/geographic-range-of-the-spoon-billed-sandpiper.jpg",
+   "imageOfBird": "https://i.ytimg.com/vi/H26Tl7e3KeU/maxresdefault.jpg"
+ },
+ {
+   "id": 86,
+   "name": "Superb Bird-of-Paradise",
+   "scientificName": "Lophorina superba",
+   "conservationStatus": "Least Concern",
+   "primaryColor": "Black",
+   "diet": "fruit, insects, frogs, seeds",
+   "imageOfRange": "https://www.oiseaux.net/maps/svg/paradisier.superbe.svg",
+   "imageOfBird": "https://www.nationalgeographic.com/content/dam/news/2018/04/18/bird-of-paradise/02-bird-of-paradise-A012_C010_1029SF_0001575.ngsversion.1524085206705.adapt.1900.1.jpg"
+ },
+ {
+   "id": 87,
+   "name": "Tawny Frogmouth",
+   "scientificName": "Podargus strigoides",
+   "conservationStatus": "Least Concern",
+   "primaryColor": "Brown",
+   "diet": "large insects",
+   "imageOfRange": "http://www.aladdin.st/bird-watching/maps/tawny_frogmouth.jpg",
+   "imageOfBird": "https://upload.wikimedia.org/wikipedia/commons/6/68/Tawny_Frogmouth_-_Sydney_Olympic_Park.jpg"
+ },
+ {
+   "id": 88,
+   "name": "Toco Toucan",
+   "scientificName": "Ramphastos toco",
+   "conservationStatus": "Least Concern",
+   "primaryColor": "Black",
+   "diet": "fruit, insects, frogs, eggs",
+   "imageOfRange": "https://animalfactguide.com/wp-content/uploads/2013/01/worldmap_tocotoucan.png",
+   "imageOfBird": "https://www.animalspot.net/wp-content/uploads/2016/02/Toco-Toucans.jpg"
+ },
+ {
+   "id": 89,
+   "name": "Tricolored Blackbird",
+   "scientificName": "Agelaius tricolor",
+   "conservationStatus": "Endangered",
+   "primaryColor": "Black",
+   "diet": "beetles, snails, insects, seeds",
+   "imageOfRange": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Agelaius_tricolor_map.svg/330px-Agelaius_tricolor_map.svg.png",
+   "imageOfBird": "https://www.allaboutbirds.org/guide/assets/og/81386391-1200px.jpg"
+ },
+ {
+   "id": 90,
+   "name": "Tufted Puffin",
+   "scientificName": "Fratercula cirrhata",
+   "conservationStatus": "Least Concern",
+   "primaryColor": "Black",
+   "diet": "fish, squid, krill",
+   "imageOfRange": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Fratercula_cirrhata_distribution_map.svg/330px-Fratercula_cirrhata_distribution_map.svg.png",
+   "imageOfBird": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Tufted_Puffin_Alaska_%28cropped%29.jpg"
+ },
+ {
+   "id": 91,
+   "name": "Victoria Crowned Pigeon",
+   "scientificName": "Goura victoria",
+   "conservationStatus": "Near Threatened",
+   "primaryColor": "Blue",
+   "diet": "seeds, invertebrates",
+   "imageOfRange": "https://www.oiseaux.net/maps/svg/goura.de.victoria.svg",
+   "imageOfBird": "https://img.theepochtimes.com/assets/uploads/2020/05/18/Victoria-Crowned-Pigeon-i.jpg"
+ },
+ {
+   "id": 92,
+   "name": "Violet-Backed Starling",
+   "scientificName": "Cinnyricinclus leucogaster",
+   "conservationStatus": "Least Concern",
+   "primaryColor": "Pink",
+   "diet": "fruit, seeds, insects",
+   "imageOfRange": "https://www.oiseaux.net/maps/svg/spreo.amethyste.svg",
+   "imageOfBird": "https://i.pinimg.com/736x/dd/42/54/dd425491e9c313330e407d4c7894edb6.jpg"
+ },
+ {
+   "id": 93,
+   "name": "Vulturine Guineafowl",
+   "scientificName": "Acryllium vulturinum",
+   "conservationStatus": "Least Concern",
+   "primaryColor": "Blue",
+   "diet": "seeds, small invertebrates",
+   "imageOfRange": "https://www.oiseaux.net/maps/svg/pintade.vulturine.svg",
+   "imageOfBird": "https://www.purelypoultry.com/images/vulturine-guineafowl_04.jpg"
+ },
+ {
+   "id": 94,
+   "name": "White Wagtail",
+   "scientificName": "Motacilla alba",
+   "conservationStatus": "Least Concern",
+   "primaryColor": "White",
+   "diet": "aquatic insects, snails, small fish, crustaceans",
+   "imageOfRange": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/White_Wagtail_Range.png/330px-White_Wagtail_Range.png",
+   "imageOfBird": "https://www.shanghaibirding.com/wp-content/uploads/2020/02/white-wagtail-ocularis.jpg"
+ },
+ {
+   "id": 95,
+   "name": "Whooping Crane",
+   "scientificName": "Grus americana",
+   "conservationStatus": "Endangered",
+   "primaryColor": "White",
+   "diet": "crustaceans, mollusks, fish, eels",
+   "imageOfRange": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Grus_americana_map.svg/330px-Grus_americana_map.svg.png",
+   "imageOfBird": "https://cdn.birdwatchingdaily.com/2019/09/Whooping-Crane-Aransas-NWR_8109-Welty.jpg"
+ },
+ {
+   "id": 96,
+   "name": "Wilson's Bird-Of-Paradise",
+   "scientificName": "Cicinnurus respublica",
+   "conservationStatus": "Near Threatened",
+   "primaryColor": "Red",
+   "diet": "fruit, insects",
+   "imageOfRange": "https://www.oiseaux.net/maps/svg/paradisier.republicain.svg",
+   "imageOfBird": "https://i.ytimg.com/vi/BvIuUABZkiI/maxresdefault.jpg"
+ },
+ {
+   "id": 97,
+   "name": "Wood Duck",
+   "scientificName": "Aix sponsa",
+   "conservationStatus": "Least Concern",
+   "primaryColor": "Brown",
+   "diet": "berries, seeds, insects",
+   "imageOfRange": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Aix_sponsa_dis1.PNG/330px-Aix_sponsa_dis1.PNG",
+   "imageOfBird": "https://bloximages.newyork1.vip.townnews.com/yakimaherald.com/content/tncms/assets/v3/editorial/3/03/303e8cea-73fa-11e6-841c-cfeef8ca8b2d/57ce60c1369f6.image.jpg?crop=1662%2C935%2C0%2C155&resize=1662%2C935&order=crop%2Cresize"
+ },
+ {
+   "id": 98,
+   "name": "Yellow Bellied Sapsucker",
+   "scientificName": "Sphyrapicus varius",
+   "conservationStatus": "Least Concern",
+   "primaryColor": "Black",
+   "diet": "tree sap, fruit, insects",
+   "imageOfRange": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Sphyrapicus_varius_map.svg/330px-Sphyrapicus_varius_map.svg.png",
+   "imageOfBird": "https://www.allaboutbirds.org/guide/assets/photo/65051941-480px.jpg"
+ }
+]
